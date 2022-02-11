@@ -10,4 +10,5 @@
  <a href="https://github.com/search?q=user%3ABasit21740+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
  <a href="https://github.com/search?q=user%3ABasit21740+language%3Aswift"><img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A.svg?logo=swift&logoColor=white"></a>
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo.png"/>
+	<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 	
